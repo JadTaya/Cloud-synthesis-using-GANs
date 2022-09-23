@@ -1,4 +1,8 @@
+The dataset and the DCGAN model can be found [here](https://drive.google.com/drive/u/0/folders/1hTgTmXlIXD9AxxfdW-O9wyOn5gHck-7d).
+If you wanna run the code, you need to add the dataset files and create 2 empty folders with the names "results&models" and "runs".
+
 # Cloud-synthesis-using-GANs
+You can find the final paper up above.
 
 "2D_zeroPadaed_clouds_orig" is the whole dataset that we exported from pyshdom.
 
